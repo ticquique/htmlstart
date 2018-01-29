@@ -7,6 +7,7 @@ HTMLSTART uses a number of open source projects to work properly:
 * [node.js] - evented I/O for the backend
 * [Sass] - CSS extension language
 * [Gulp] - the streaming build system
+* [Browsersync] - Time-saving synchronised browser testing.
 
 And of course HTMLSTART itself is open source with a [public repository][htmlstart]
  on GitHub.
@@ -45,3 +46,4 @@ $ gulp
    [node.js]: <http://nodejs.org>
    [Gulp]: <http://gulpjs.com>
    [Sass]: <http://sass-lang.com/>
+   [Browsersync]: <https://browsersync.io/>
